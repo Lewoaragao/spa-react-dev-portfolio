@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spa-react-dev-portfolio/static/css/main.0a64d739.css",
+    "main.js": "/spa-react-dev-portfolio/static/js/main.d2b19498.js",
+    "static/media/avatar.png": "/spa-react-dev-portfolio/static/media/avatar.cba8106533984d0e08bf.png",
+    "index.html": "/spa-react-dev-portfolio/index.html",
+    "main.0a64d739.css.map": "/spa-react-dev-portfolio/static/css/main.0a64d739.css.map",
+    "main.d2b19498.js.map": "/spa-react-dev-portfolio/static/js/main.d2b19498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a64d739.css",
+    "static/js/main.d2b19498.js"
+  ]
+}
